@@ -1,0 +1,21 @@
+Repo Name,Username,Stars,Repo URL
+amp,amphp,4200.0,https://github.com/amphp/amp
+MadelineProto,danog,2800.0,https://github.com/danog/MadelineProto
+telegram-api,unreal4u,786.0,https://github.com/unreal4u/telegram-api
+parallel,amphp,769.0,https://github.com/amphp/parallel
+http-client,amphp,701.0,https://github.com/amphp/http-client
+byte-stream,amphp,363.0,https://github.com/amphp/byte-stream
+mysql,amphp,354.0,https://github.com/amphp/mysql
+service-bus,php-service-bus,349.0,https://github.com/php-service-bus/service-bus
+parallel-functions,amphp,268.0,https://github.com/amphp/parallel-functions
+TelegramRSS,xtrime-ru,228.0,https://github.com/xtrime-ru/TelegramRSS
+process,amphp,227.0,https://github.com/amphp/process
+socket,amphp,222.0,https://github.com/amphp/socket
+sync,amphp,158.0,https://github.com/amphp/sync
+redis,amphp,155.0,https://github.com/amphp/redis
+dns,amphp,155.0,https://github.com/amphp/dns
+websocket-client,amphp,143.0,https://github.com/amphp/websocket-client
+acme,kelunik,121.0,https://github.com/kelunik/acme
+websocket-server,amphp,114.0,https://github.com/amphp/websocket-server
+serialization,amphp,107.0,https://github.com/amphp/serialization
+cache,amphp,97.0,https://github.com/amphp/cache
